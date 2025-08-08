@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOMETOWN</title>
+    <style>
+        body {
+            background-color: #e3f2fd; /* Light blue background */
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0 10vw;
+        }
+        h1, h2 {
+            text-align: center;
+            color: #1565c0;
+        }
+        img {
+            display: block;
+            margin: 20px auto;
+            max-width: 90%;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(21,101,192,0.15);
+        }
+        p {
+            font-size: 1.1em;
+            color: #333;
+            line-height: 1.7;
+            background: rgba(255,255,255,0.7);
+            padding: 12px;
+            border-radius: 8px;
+            margin-bottom: 24px;
+        }
+        iframe {
+            display: block;
+            margin: 30px auto;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(21,101,192,0.15);
+        }
+    </style>
+</head>
+<body>
+    <h1>My Hometown</h1>
+    <img src="mirsarai 1.jpg" alt="Mirsharai landscape">
+    <p>Mirsharai, an upazila in Chattogram District of Chattogram Division, Bangladesh, is a region rich in history and natural beauty. Spanning an area of 482.88 square kilometers, it is bordered by Tripura State of India and various upazilas, with the Bay of Bengal to its south. Historically, it came under Muslim rule in 1340 AD when Sultan Fakhruddin Mobarak Shah conquered Chittagong, and it later saw governance by rulers like Paragal Khan and Nizam Shah. The area is known for its revolutionary past, particularly during the British era and the 1971 Liberation War, with significant battles fought near Fenafuni Bridge. Today, Mirsharai attracts visitors with its scenic landscapes, including Khoiyachora Waterfall, Mohamaya Lake, and Bawachhora Lake, making it a growing tourist destination. With a population of around 398,716 and an average literacy rate of 55.08%, it also hosts educational institutions like Nizampur Government College and is developing economically with the Mirsharai Special Economic Zone.</p>
+    
+    <h1>Natural Beauties & Tourist Destinations :</h1>
+    
+    <h2>Khoiyachora Waterfall</h2>
+    <img src="mir 2.jpg" alt="Khoiyachora Waterfall">
+    <p>Khoiyachora Waterfall, located in the hills of Mirsharai Upazila in Chattogram, Bangladesh, is a stunning natural attraction often dubbed the "Queen of Waterfalls." This majestic waterfall features multiple cascades, with estimates ranging from seven to nine major tiers, each adding to its captivating beauty. Nestled amidst lush greenery, it offers a serene escape and an adventurous trekking experience, with the hike to the falls taking about 1.5 to 2 hours depending on the trail conditions. The best time to visit is during the monsoon season (June to October), when the water flow is at its peak, though the trails can become slippery. The surrounding area includes natural pools and scenic landscapes, making it a popular spot for nature lovers and photographers. Access involves traveling from Dhaka or Chattogram to Baratakia Bazar, followed by a trek from the nearby village.</p>
+    
+    <h2>Mohamaya Lake</h2>
+    <img src="mir 3.jpg" alt="Mohamaya Lake">
+    <p>Mohamaya Lake, located in Durgapur Union of Mirsarai Upazila, Chattogram, Bangladesh, is the second-largest artificial lake in the country, covering about 11 square kilometers. Situated just 2 km east of Thakurdighi Bazar, it lies at the foot of hills and is a key part of the Mohamaya Irrigation Project, initiated in 2007-2008 and completed in 2009. The lake, surrounded by lush hills, crystal-clear waters, mountain caves, rubber dams, and seasonal waterfalls, offers a serene environment ideal for boating, kayaking, and camping. Managed partly by the Bangladesh Water Development Board, its water supports irrigation in nearby areas. The best time to visit is after the monsoon for lively waterfalls or in winter for kayaking and hiking. Accessible from Dhaka or Chattogram via bus or train to Thakurdighi Bazar, it’s a growing eco-tourism spot with no nearby hotels, though Sitakunda offers accommodation options.</p>
+    
+    <h2>Bawachhora Lake</h2>
+    <img src="mir 4.jpg" alt="Bawachhora Lake">
+    <p>Bawachhora Lake, situated in Mirsharai Upazila of Chattogram, Bangladesh, is a picturesque natural lake nestled amidst rolling hills and dense forest cover, making it a hidden gem for nature enthusiasts. Located near the village of Bawachhora, it is accessible via a scenic trek from the Mirsharai-Khagrachhari road, approximately 2-3 kilometers off the main route. The lake is surrounded by lush greenery and offers tranquil waters that reflect the surrounding landscape, especially during the early morning or late afternoon. It is a popular spot for local picnics and photography, with the best visiting time being the post-monsoon months (October to February) when the weather is pleasant and the scenery is at its most vibrant. While facilities are minimal, the serene environment and proximity to other attractions like Khoiyachora Waterfall make it a worthwhile stop for adventurers exploring the region.</p>
+    
+    <h1>Economic significance</h1>
+    <h2>The Mirsharai Economic Zone</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hxoGU13CmUw?si=smRRHGAMLoB-QFMG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>The Mirsharai Economic Zone, located in Mirsharai Upazila of Chattogram, Bangladesh, is a significant industrial development project under the Bangladesh Economic Zones Authority (BEZA). Spanning approximately 1,026 acres, it aims to attract domestic and foreign investment by providing state-of-the-art infrastructure for industries such as textiles, pharmaceuticals, light engineering, and food processing. Situated strategically near Chattogram Port and the Dhaka-Chattogram highway, it offers excellent connectivity for trade and logistics. The zone is designed to create employment opportunities, with an estimated capacity to generate over 100,000 jobs once fully operational. Development began with land acquisition and infrastructure setup in the early 2010s, and as of August 2025, it continues to expand with several factories already in operation. The project supports Bangladesh's goal of economic diversification and export growth.</p>
+    
+    <h1>Historical Sites</h1>
+    <p>Explore the legacy of Nizampur Pargana and the influence of Arakanese rulers, reflecting Mirsarai’s rich historical tapestry.</p>
+</body>
+</html>
